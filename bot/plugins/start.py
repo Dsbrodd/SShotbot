@@ -13,7 +13,7 @@ async def start(c, m, cb=False):
         return
     owner_id = Config.AUTH_USERS[0]
     username = 'dstamil_07'
-    mention = [DS Tamil](https://t.me/mm_dev_channel)'
+    mention = '[DS Tamil](https://t.me/mm_dev_channel)'
     try:
         owner = await c.get_users(owner_id)
         username = owner.username if owner.username else 'PredatorHackerzZ'
