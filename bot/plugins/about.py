@@ -8,7 +8,7 @@ from bot.database.forcesub import ForceSub
 
 BUTTONS = [[
     InlineKeyboardButton('🏡 Home', callback_data='home'),
-    InlineKeyboardButton('🚸 Powered By', url='t.me/MoviesFlixers_DL'),
+    InlineKeyboardButton('🚸 Powered By', url='https://t.me/mm_dev_channel'),
     InlineKeyboardButton('♻ Help', callback_data='help')
 ]]
 
