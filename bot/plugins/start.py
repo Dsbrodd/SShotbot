@@ -12,8 +12,8 @@ async def start(c, m, cb=False):
     if forcesub == 400:
         return
     owner_id = Config.AUTH_USERS[0]
-    username = 'TheTeleRoid'
-    mention = '[Pʀᴇᴅ∆ᴛᴏʀ](https://t.me/MoviesFlixers_dL)'
+    username = 'dstamil_07'
+    mention = [DS Tamil](https://t.me/mm_dev_channel)'
     try:
         owner = await c.get_users(owner_id)
         username = owner.username if owner.username else 'PredatorHackerzZ'
@@ -22,13 +22,10 @@ async def start(c, m, cb=False):
         print(e)
 
     BUTTONS = [[
-        InlineKeyboardButton("♂️ Support", url=f"https://t.me/TeleRoid14"),
-        InlineKeyboardButton("🔔 Channel", url="https://t.me/TeleRoidGroup")
-        ],[
         InlineKeyboardButton("🛠 Settings", callback_data="set+settings")
         ],[
-        InlineKeyboardButton("♻ Help", callback_data="help"),
-        InlineKeyboardButton("👤 About", callback_data="about")
+        InlineKeyboardButton("⁉ Help", callback_data="help"),
+        InlineKeyboardButton("📛 About", callback_data="about")
         ],[
         InlineKeyboardButton("🔐 Close", callback_data="close")
     ]]
