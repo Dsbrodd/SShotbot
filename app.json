@@ -9,7 +9,7 @@
    "Sample video",
    "Trim Video"
   ],
-  "repository": "https://github.com/Ns-AnoNymouS/screenshot-bot",
+  "repository": "https://github.com/Dsbrodd/SShotbot",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
