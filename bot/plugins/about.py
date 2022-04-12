@@ -19,9 +19,9 @@ ABOUT_TEXT = """
 │
 ├<b>Channel: <a href='https://t.me/mm_dev_channel'>Dev Channel</a></b>
 │
-├<b>Support: <a href='https://t.me/TeleRoid14'>@TeleRoidSupport</a></b>
+├<b>Support: <a href='https://t.me/mm_dev_channel'>DS ❤️</a></b>
 │
-├<b>Source: <a href='https://github.com/PredatorHackerzZ'>Click Here</a></b>
+├<b>Source: <a href='https://t.me/Dstamil_01'>Click Here</a></b>
 │
 ├<b>Server: <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -29,7 +29,7 @@ ABOUT_TEXT = """
 │
 ├<b>Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>Developer: <a href='https://t.me/dstamil_07'>@dstamil_07</a></b>
+├<b>Developer: <a href='https://t.me/Dstamil_01'>DS TAMIL ❤️</a></b>
 │
 ╰────────[Thank You]───⍟
 
